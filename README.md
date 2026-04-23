@@ -8,7 +8,7 @@ This project dives deeper into financial transactions, particularly those that a
 * Depicting how the regression models determine which countries were sent more money during 2013-2014. 
 
 
-##### Top techniques used 
+## Top techniques used 
 * Data cleaning
 * Exploratory data analysis 
 * data visualizations - Bar Charts
