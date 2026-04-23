@@ -16,10 +16,14 @@ This project dives deeper into financial transactions, particularly those that a
 
 
 ## Research Question 1 - 
-<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="200">
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="500">
 explaination 
 
 
 ## Research Question 2 - 
-<img src = "" alt = "Logo" width="200">
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="500">
 explaination 
+
+
+## Research Question 3 - 
+Regressions Explain 
