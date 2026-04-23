@@ -14,6 +14,8 @@ This project dives deeper into financial transactions, particularly those that a
 * data visualizations - Bar Charts
 * Binary Regression Models  
 
+### Research Questions - 
+My research goes over three main questions
 
 ## Research Question 1 - 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="700">
