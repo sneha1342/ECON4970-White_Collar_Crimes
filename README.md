@@ -11,10 +11,18 @@ This project dives deeper into financial transactions, particularly those that a
 ## Top techniques used 
 * Data cleaning
 * Exploratory data analysis 
-* data visualizations - Bar Charts
+* data visualizations - Bar & Pie Charts
 * Binary Regression Models  
 
 Now I would like to go over my key findings from the project 
+
+
+
+## What percent of transactions were legal and illegal during 2013-2014? 
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="700">
+
+explanation 
+
 
 ## Research Question 1 - 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="700">
