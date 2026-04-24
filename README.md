@@ -45,7 +45,7 @@ The bar chart in **Figure 3** highlights the industries with the highest number 
 ## Which industries were at highest risk? 
 #### Figure 4: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Risk%20Score.png" alt = "Logo" width = "600"> 
-
+$3,290,623,342 OR $3.29 B dollars were involved in the fraud of cash withdrawal 
 explanation 
 
 
