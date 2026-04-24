@@ -216,14 +216,7 @@ library(scales)
       ) |> 
     select(-Source.of.Money)
   
-  # df = read.csv("Big_Black_Money_Dataset.csv")
-  # 
-  # df_clean = df |>
-  #   select(
-  #     Transaction.ID, Country, Amount..USD., Transaction.Type, Person.Involved, 
-  #     Industry,Illegality, Reported.by.Authority, Financial.Institution, 
-  #     Money.Laundering.Risk.Score, Destination.Country
-    # )
+
 # what is increasing the probability that a trans. is illegal? - Destination country and country of trans.  
 # creating a regression model to answer the question 
   
@@ -244,4 +237,57 @@ summary(model2)
 
 ## the most illegal transactions were sent to India with respect to Brazil as it is
 # omitted out from the regression 
+
+# Making Legal transactions as Control group and Illegal trans. as Treatment group 
+
+control= subset(df_clean, Illegality == 0)
+treatment = subset(df_clean, Illegality == 1)
+
+# finding the mean, median, and quartiles for risk score 
+
+summary(control$Money.Laundering.Risk.Score)
+summary(treatment$Money.Laundering.Risk.Score)
+
+# making the descriptive table for both control and treatment groups taking their 
+# Risk Score as our observation value. 
+
+descriptive_table = data.frame(
+  Group = c("Control", "Treatment"), 
+  
+  Minimum = c(
+    min(control$Money.Laundering.Risk.Score,na.rm =TRUE),
+    min(treatment$Money.Laundering.Risk.Score, na.rm = TRUE)
+  ), 
+  
+  Q1 = c(
+    quantile(control$Money.Laundering.Risk.Score, 0.25, na.rm =TRUE),
+    quantile(treatment$Money.Laundering.Risk.Score, 0.25, na.rm = TRUE)
+  ),
+  
+  
+  Median = c(
+    median(control$Money.Laundering.Risk.Score,na.rm =TRUE),
+    median(treatment$Money.Laundering.Risk.Score, na.rm = TRUE)
+  ), 
+  
+  Mean= c(
+    mean(control$Money.Laundering.Risk.Score,na.rm =TRUE),
+    mean(treatment$Money.Laundering.Risk.Score, na.rm = TRUE)
+  ), 
+  
+  Q3 = c(
+    quantile(control$Money.Laundering.Risk.Score, 0.75, na.rm =TRUE),
+    quantile(treatment$Money.Laundering.Risk.Score, 0.75, na.rm = TRUE)
+  ), 
+  
+  Maximum = c(
+    max(control$Money.Laundering.Risk.Score,na.rm =TRUE),
+    max(treatment$Money.Laundering.Risk.Score, na.rm = TRUE)
+  )
+)
+
+
+
+
+
 
