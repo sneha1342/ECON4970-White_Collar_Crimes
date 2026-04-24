@@ -27,7 +27,7 @@ The pie chart above in **Figure 1** depicts proportion of legal versus illegal t
 
 ## Top 6 Countries with Illegal Transactions - 
 #### Figure 2:
-<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="700">
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="600">
 
 The bar chart in **Figure 2** highlights the countries with the highest number of illegal transactions. Brazil appears at the top with 748 transactions, followed  by South Africa, China, the United Kingdom, and Russia, while India shows slightly fewer illegal transactions compared to others. The insignificant differences in these values is depicting the fact that illegal activities are spread in multiple areas (countries) and not just one particular region.
 
@@ -37,7 +37,7 @@ In addition, the study claims that a large number of animal trafficking take pla
 
 ## Industries Vs. Illicit Transactions
 #### Figure 3: 
-<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="700">
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="600">
 
 The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. 
 
