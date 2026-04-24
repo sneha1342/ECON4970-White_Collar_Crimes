@@ -42,18 +42,11 @@ In addition, the study claims that a large number of animal trafficking take pla
 The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. 
 
 
-## Research Question 3 - 
+## Regression Models - 
 #### Figure 4 
 Regressions Explain 
 
 
 
 ### Outside References - 
-1.
-2. 
-3. 
-4. 
-
-
-
 
