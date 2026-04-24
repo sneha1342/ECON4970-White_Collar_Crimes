@@ -31,13 +31,14 @@ The pie chart above in **Figure 1** depicts proportion of legal versus illegal t
 
 The bar chart in **Figure 2** highlights the countries with the highest number of illegal transactions. Brazil appears at the top with 748 transactions, followed  by South Africa, China, the United Kingdom, and Russia, while India shows slightly fewer illegal transactions compared to others. The insignificant differences in these values is depicting the fact that illegal activities are spread in multiple areas (countries) and not just one particular region.
 
-According to the sources, Brazil has the most illicit transactions because it serves as a entry and exit point for 
+According to the sources, Brazil has the most illicit transactions because it serves as a entry and exit point on borders for traffickers. 
+In addition, the study claims that a large number of animal trafficking take place in South Africa as it was a transit country. 
 
 
-## Research Question 2 - 
-#### Figure 3
+## Industries Vs. Illicit Transactions
+#### Figure 3: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="700">
-explanation 
+The bar chart in **Figure 3** highlights the countries with the highest number of illegal transactions
 
 
 ## Research Question 3 - 
