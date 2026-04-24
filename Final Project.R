@@ -184,8 +184,12 @@ library(scales)
 # illegal transactions in total 
 # and the lowest in Offshore Transfer, meaning the lowest amount of risk of illegal 
 # transaction is "Offshore Transfers". 
-  
-  
+
+
+# using ggsave 
+ ggsave("D:/Personal/Sneha/Assignments GSU/Econ Data Science (R)/Risk Score.png",
+         width = 10, height = 6, bg = "white")
+    
 # Making Amount..USD. as numeric 
   df_illegal$Amount..USD.= as.numeric(
     chartr(",", "$", df_illegal$Amount..USD.)
