@@ -38,7 +38,13 @@ According to the sources, Brazil had the most illicit transactions made during t
 #### Figure 3: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="600">
 
-The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. This is followed by industries like Finance, Luxury goods, Construction, and Casinos with slightly lower count. 
+The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. This is followed by industries like Finance, Luxury goods, Construction, and Casinos with a significantly lower count...
+
+
+
+## Which industries were at highest risk? 
+#### Figure 4: 
+<img src = "" alt = "Logo" width = "600"> 
 
 
 ## Regression Models - 
