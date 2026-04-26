@@ -1,7 +1,7 @@
 ## Project Summary
 This project dives deeper into financial transactions, particularly those that are illegal. Using a dataset focusing on Black Money Transactions from Kaggle of approximately 10,000 observations during the timeframe 2013-2014, I was able to observe patterns and trends between countries and various industries where illicit activities were highly concentrated.
 
-I have always been interested in investigative and financial fraud cases; and its even more interesting when you get to analyze this type of data. When I first came across this dataset, I was drawn to get the insights of where financial fraud takes place the most and what kind of industries are involved. Therefore, I took this not only as an academic project, but also as an ooportunity to explore more about white collar crimes. 
+I have always been interested in investigative and financial fraud cases; and its even more interesting when you get to analyze this type of data. When I first came across this dataset, I was drawn to get the insights of where financial fraud takes place the most and what kind of industries are involved. Therefore, I took this not only as an academic project, but also as an opportunity to explore more about white collar crimes. 
 
 
 
@@ -40,7 +40,7 @@ According to the sources, Brazil had the most illicit transactions made during t
 #### Figure 3: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="560">
 
-The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. This finding, thereby, supports the study discussed in the above section. The Casinos industry in United Arab Emirates, on the other hand, has the least but significant amount of illicit transactions. This might be because Casinos are a major hub in the UAE to most illegal activities and most of the black money can easily be converted into white. Apart from these two, other industries with slightly higher fraud activities are Finance, Luxury Goods, and Construction. These also play a major role in illicit activities as they involve transactions of large amounts in general.
+The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. This finding, thereby, supports the study discussed in the above section. The Casinos industry in United Arab Emirates, on the other hand, has the least but significant amount of illicit transactions. This might be because Casinos are a major hub in the UAE to most illegal activities and most of the black money can easily be converted into white. Apart from Arms Trade and Casinos, other industries with slightly higher fraud activities are Finance, Luxury Goods, and Construction. These also play a major role in illicit activities as they involve transactions of large amounts in general.
 
 
 
@@ -48,8 +48,7 @@ The bar chart in **Figure 3** highlights the industries with the highest number 
 #### Figure 4: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Risk%20Score.png" alt = "Logo" width = "560"> 
 
-$3,290,623,342 OR $3.29 B dollars were involved in the fraud of cash withdrawal. 
-explanation 
+Cash Withdrawal has the most mean risk of being targeted in the financial fraud or money laundering, according to **Figure 4**. In fact, approximately $3,290,623,342 ($3.29) Billion dollars were involved in 1467 illegal transactions in cash withdrawal. Although all other types of transactions don't have any significant difference, the least risk is associated with the Offshore Transfers. According to AML network organization, Offshore Trnasfers is very vulnerable to financial frauds. That is why it is  highly scrutinized in the frameworks with strict laws. 
 
 
 ## Regression Models - 
