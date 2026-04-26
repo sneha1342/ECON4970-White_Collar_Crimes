@@ -51,18 +51,17 @@ The bar chart in **Figure 3** highlights the industries with the highest number 
 Cash Withdrawal has the most mean risk of being targeted in the financial fraud or money laundering, according to **Figure 4**. In fact, approximately $3,290,623,342 ($3.29) Billion dollars were involved in 1467 illegal transactions in cash withdrawal. Although all other types of transactions don't have any significant difference, the least risk is associated with the Offshore Transfers. According to AML network organization, Offshore Trnasfers is very vulnerable to financial frauds. That is why it is heavily monitored by financial institutions and international government bodies. 
 
 ## Regression Models - 
-#### Model 1: 
-To understand the probability of illegal transactions in a better way, I built two linear regression models with "Illegality" as the dependent variable. 
+#### Model 1: Country of Origin
+To understand the probability of illegal transactions in a better way, I built two linear regression models with "Illegality." The dependent variable is a binary operator where Illegal is assigned the value of "1" while legal is assigned the value of "0".
 
 <img src = "https://github.com/sneha1342/ECON4970-White_Collar_Crimes/blob/main/Screenshot%202026-04-26%20131423.png" alt = "Logo" width = "400">
 
-**Model 1**  
+**Model 1** shows if the country where the transaction incurred predicts illegality. Out of 10 countries, Brazil is ommited from the model, serving as a baseline for all predictions in this model. Since China has the highest coefficient among all, it indicates that transactions incurred in China were more likely to be illegal during 2013 to 2014. Now, why might this be the case? The main reason is that China was considered a major hub for illicit money transfers (trade misinvoices) and underground banking in 2013-2014. Furthermore a study published on reuters, claims that about 410 Billion Yuan were involved in an underground banking case in China. 
 
-#### Model 2:
+#### Model 2: Destination Country
 <img src = "https://github.com/sneha1342/ECON4970-White_Collar_Crimes/blob/main/Screenshot%202026-04-26%20132113.png" alt = "Logo" width = "400">
 
-Regressions - Destination Country explain
-
+**Model 2** shows if the destination country - country where illegal funds were sent - predicts illegality. Out of 10 countries, Brazil serves as the baseline for all predictions in this model. UK has the highest coefficient among all other countries relative to Brazil. Ultimately leading to the fact that most probability of transferring the money involved in fraud was in the United Kingdom. However, it does not mean that ALL illegal money is sent to the UK. Few sources claim that UK has a major hub for secrecy networks expanded internationally. This makes UK a strong destination country. 
 
 ## Descriptive Analysis - 
 #### Figure 5:
@@ -74,4 +73,6 @@ Table explain
 
 ### Outside References - 
 1. https://africacenter.org/publication/wildlife-poaching-africas-surging-trafficking-threat/\
-2. 
+2. https://www.sciencedirect.com/science/article/pii/S0261560615002156?via%3Dihub
+3. https://www.reuters.com/article/world/china-breaks-up-64-billion-underground-banking-state-media-idUSKCN0T910J/
+4. https://www.globalpolicy.org/en/node/510 
