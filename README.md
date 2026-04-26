@@ -52,9 +52,12 @@ Cash Withdrawal has the most mean risk of being targeted in the financial fraud 
 
 ## Regression Models - 
 #### Figure 5: 
+<img src = "https://github.com/sneha1342/ECON4970-White_Collar_Crimes/blob/main/Screenshot%202026-04-26%20131423.png" alt = "Logo" width = "560">
+
+Regressions - country Explain 
+
 <img src = "" alt = "Logo" width = "560">
 
-Regressions Explain 
 
 
 ## Descriptive Analysis - 
