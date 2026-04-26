@@ -1,5 +1,8 @@
 ## Project Summary
-This project dives deeper into financial transactions, particularly those that are illegal. Using a dataset focusing on Black Money Transactions, I was able to develop essential skills in R.... 
+This project dives deeper into financial transactions, particularly those that are illegal. Using a dataset focusing on Black Money Transactions from Kaggle of approximately 10,000 observations during the timeframe 2013-2014, I was able to observe patterns and trends between countries and various industries where illicit activities were highly concentrated.
+
+I have always been interested in investigative and financial fraud cases; and its even more interesting when you get to analyze this type of data. When I first came across this dataset, I was drawn to get the insights of where financial fraud takes place the most and what kind of industries are involved. Therefore, I took this not only as an academic project, but also as an ooportunity to explore more about white collar crimes. 
+
 
 
 ## Key Objectives
@@ -15,7 +18,6 @@ This project dives deeper into financial transactions, particularly those that a
 * data visualizations - Bar & Pie Charts
 * Binary Regression Models  
 
-My key findings from the project are as follows: 
 
 
 ## Legal Vs. Illegal transactions
@@ -27,7 +29,7 @@ The pie chart above in **Figure 1** depicts proportion of legal versus illegal t
 
 ## Top 6 Countries with Illegal Transactions - 
 #### Figure 2:
-<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="600">
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20countries%20with%20Illegal%20Trans.png" alt = "Logo" width="560">
 
 The bar chart in **Figure 2** highlights the countries with the highest number of illegal transactions. Brazil appears at the top with 748 transactions, followed  by South Africa, China, the United Kingdom, and Russia, while India shows slightly fewer illegal transactions compared to others. The insignificant differences in these values is depicting the fact that illegal activities are spread in multiple areas (countries) and not just one particular region. Now, you might think why this is the case - why do countries like Brazil and South Africa have higher illegal activities? 
 
@@ -36,15 +38,15 @@ According to the sources, Brazil had the most illicit transactions made during t
 
 ## Industries Vs. Illicit Transactions
 #### Figure 3: 
-<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="600">
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Top%20Industries%20with%20Illegal%20Trans.png" alt = "Logo" width="560">
 
-The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. This is followed by industries like Finance, Luxury goods, Construction, and Casinos with a significantly lower count...
+The bar chart in **Figure 3** highlights the industries with the highest number of illegal transactions in certain countries. Brazil again has the most illicit transactions i.e. 127, but in the Arms Trade industry. This finding, thereby, supports the study discussed in the above section. The Casinos industry in United Arab Emirates, on the other hand, has the least but significant amount of illicit transactions. This might be because Casinos are a major hub in the UAE to most illegal activities and most of the black money can easily be converted into white. Apart from these two, other industries with slightly higher fraud activities are Finance, Luxury Goods, and Construction. These also play a major role in illicit activities as they involve transactions of large amounts in general.
 
 
 
 ## Which industries were at highest risk? 
 #### Figure 4: 
-<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Risk%20Score.png" alt = "Logo" width = "600"> 
+<img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Risk%20Score.png" alt = "Logo" width = "560"> 
 
 $3,290,623,342 OR $3.29 B dollars were involved in the fraud of cash withdrawal. 
 explanation 
