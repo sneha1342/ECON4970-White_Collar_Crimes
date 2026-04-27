@@ -65,10 +65,10 @@ To understand the probability of illegal transactions in a better way, I built t
 
 ## Descriptive Analysis - 
 #### Figure 5:
-Table explain 
 
+<img src = "https://github.com/sneha1342/ECON4970-White_Collar_Crimes/blob/main/Screenshot%202026-04-26%20164910.png" alt = "Logo" width = "500">
 
-
+The descriptive table depicts how risk score for money laundering is distributed among control and treatment groups. The control group in this project is **"Legal"** transactions, while treatment is **"Illegal"** transactions. According to **Figure 5**, everything except Mean is same, indicating that there is no significant difference in the distribution of risk scores among both legal and illegal transactions. The difference of 0.013 in the mean, however suggests that illegal transactions have slightly higher mean risk score than legal ones. 
 
 
 ### Outside References - 
