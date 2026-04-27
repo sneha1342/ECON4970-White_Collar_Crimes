@@ -44,7 +44,7 @@ The bar chart in **Figure 3** highlights the industries with the highest number 
 
 
 
-## Which industries were at highest risk? 
+## Mean Risk Score vs. Type of transaction 
 #### Figure 4: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Risk%20Score.png" alt = "Logo" width = "560"> 
 
