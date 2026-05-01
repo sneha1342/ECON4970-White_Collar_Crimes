@@ -6,17 +6,17 @@ I have always been interested in investigative and financial fraud cases; and it
 
 
 ## Key Objectives
-* Depicting how many transactions were legal and illegal during the time frame of the dataset
-* Getting an insight about where illegal activity tends to show up more
-* Comparing type of transactions based on risk score and industries
-* Depicting how the regression models determine which countries were sent more money during 2013-2014 
+* Depict how many transactions were legal and illegal during the time frame of the dataset
+* Get an insight about where illegal activity tends to show up more
+* Compare type of transactions based on risk score and industries
+* Depict how the regression models determine which countries were sent more money during 2013-2014 
 
 
 ## Top techniques used 
-* Data cleaning
+* Data cleaning - Filter and Summarise functions 
 * Exploratory data analysis 
 * data visualizations - Bar & Pie Charts
-* Binary Regression Models  
+* Binary Regression Models 
 
 
 
