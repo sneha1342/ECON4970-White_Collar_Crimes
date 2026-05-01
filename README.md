@@ -12,7 +12,7 @@ I have always been interested in investigative and financial fraud cases; and it
 * Depict how the regression models determine which countries were sent more money during 2013-2014 
 
 
-## Top techniques used 
+## Top Methods used 
 * Data cleaning - Filter and Summarise functions 
 * Exploratory data analysis 
 * data visualizations - Bar & Pie Charts
