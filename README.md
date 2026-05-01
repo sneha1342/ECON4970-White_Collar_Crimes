@@ -61,7 +61,7 @@ To understand the probability of illegal transactions in a better way, I built t
 #### Model 2: Destination Country
 <img src = "https://github.com/sneha1342/ECON4970-White_Collar_Crimes/blob/main/Screenshot%202026-04-26%20132113.png" alt = "Logo" width = "400">
 
-**Model 2** shows if the destination country - country where illegal funds were sent - predicts illegality. Out of 10 countries, Brazil serves as the baseline for all predictions in this model. UK has the highest coefficient among all other countries relative to Brazil. Ultimately leading to the fact that most probability of transferring the money involved in fraud was in the United Kingdom. However, it does not mean that ALL illegal money is sent to the UK. Few sources claim that UK has a major hub for secrecy networks expanded internationally. This makes UK a strong destination country. 
+**Model 2** shows if the destination country - country where illegal funds were sent - predicts illegality. Out of 10 countries, Brazil serves as the baseline for all predictions in this model. USA has the highest coefficient among all other countries relative to Brazil. Ultimately leading to the fact that most probability of transferring the money involved in fraud was in the United States. However, it does not mean that ALL illegal money is sent to the USA. Few sources claim that it has liquid fianacial systems with extreme high and financial amounts, which can easily coverup any illegal transaction. This makes USA a strong destination country. 
 
 ## Descriptive Analysis - 
 #### Figure 5:
@@ -71,8 +71,15 @@ To understand the probability of illegal transactions in a better way, I built t
 The descriptive table depicts how risk score for money laundering is distributed among control and treatment groups. The control group in this project is **"Legal"** transactions, while treatment is **"Illegal"** transactions. According to **Figure 5**, everything except Mean is same, indicating that there is no significant difference in the distribution of risk scores among both legal and illegal transactions. The difference of 0.013 in the mean, however suggests that illegal transactions have slightly higher mean risk score than legal ones. 
 
 
+### Run this Project - 
+1. Clone this repository to your local machine
+2. Download the ```Big_Black_Money_Dataset.csv``` from Kaggle
+3. Place the CSV file in the cloned repository
+4. Open and run ```Final Project.R``` in RStudio
+
+
 ### Outside References - 
 1. https://africacenter.org/publication/wildlife-poaching-africas-surging-trafficking-threat/\
 2. https://www.sciencedirect.com/science/article/pii/S0261560615002156?via%3Dihub
 3. https://www.reuters.com/article/world/china-breaks-up-64-billion-underground-banking-state-media-idUSKCN0T910J/
-4. https://www.globalpolicy.org/en/node/510 
+4. https://www.globalpolicy.org/en/node/510
