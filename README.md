@@ -48,7 +48,7 @@ The bar chart in **Figure 3** highlights the industries with the highest number 
 #### Figure 4: 
 <img src = "https://github.com/sneha1342/ECON4970-Final-Project-/blob/main/Risk%20Score.png" alt = "Logo" width = "560"> 
 
-Cash Withdrawal has the most mean risk of being targeted in the financial fraud or money laundering, according to **Figure 4**. In fact, approximately $3,290,623,342 ($3.29) Billion dollars were involved in 1467 illegal transactions in cash withdrawal. Although all other types of transactions don't have any significant difference, the least risk is associated with the Offshore Transfers. According to AML network organization, Offshore Trnasfers is very vulnerable to financial frauds. That is why it is heavily monitored by financial institutions and international government bodies. 
+Cash Withdrawal has the most mean risk of being targeted in the financial fraud or money laundering, according to **Figure 4**. In fact, approximately $3,290,623,342 ($3.29) Billion dollars were involved in 1467 illegal transactions in cash withdrawal. Although all other types of transactions don't have any significant difference, the least risk is associated with the Offshore Transfers. According to AML network organization, Offshore Transfers is very vulnerable to financial frauds. That is why it is heavily monitored by financial institutions and international government bodies. 
 
 ## Regression Models - 
 #### Model 1: Country of Origin
